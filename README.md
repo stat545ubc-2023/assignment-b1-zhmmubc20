@@ -1,8 +1,8 @@
-#README for Assignment B-1: Making a function
+# README for Assignment B-1: Making a function
 
 This document is to introduce the files in this repo.
 
-##Requirment for the Assignment
+## Requirment for the Assignment
  * Create a GitHub repositor with the invitation for this assignment
  * Make a new Rmd file containing all the code
  * Code should adopt a consistent and easy-to-read style – ideally, the tidyverse style
@@ -10,7 +10,7 @@ This document is to introduce the files in this repo.
  * Be familiar with the rubric for a tidy submission
  * Submit your work and tag a release in your GitHub repository corresponding to submission before the deadline
 
-##Files contains in this repo
+## Files contains in this repo
   * **README.md**
     - Describe the assignment
   * **Assignment1_MmZh.Rmd**
@@ -20,7 +20,7 @@ This document is to introduce the files in this repo.
   * **.gitignoire**
     - This is the file in this repository's root directory to tell Git which files and directories to ignore when you make a commit
 
-##Exercises in this assignment
+## Exercises in this assignment
  * **Exercise 1** Make a Function (25 points)
    - The function need not be complicated
    - The function need not be “serious”
